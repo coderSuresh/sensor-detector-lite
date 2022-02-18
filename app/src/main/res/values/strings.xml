@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensor Detector Lite</string>
+    <string name="torch">torch</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="our_apps">Our apps</string>
+    <string name="about">About</string>
+    <string name="about_us">Sensor Detector Lite is a simple and multi-functional android app. This app lists all available sensors in your android device along with its version and vendor.\n\nThis app also has flashlight feature which may become helpful to turn your darkness into bright world.\n\nSince this is our first released version, you may find some bugs or way of improvement. Kindly send us feedback so that we can detect and solve the problem.\n</string>
+</resources>
